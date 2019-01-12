@@ -5,6 +5,7 @@ public class Starter {
 
         welcome();
         welcome1();
+        continue1();
 
     }
 
@@ -15,5 +16,10 @@ public class Starter {
 
     public static void welcome1() {
         System.out.println("Mamy konflikt? ");
+    }
+
+
+    public static void continue1(){
+        System.out.println("hej");
     }
 }
