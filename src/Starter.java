@@ -25,5 +25,11 @@ public class Starter {
 
     public static  void start(){
         System.out.println("hejo hej");
+        start1();
     }
+
+    public static  void start1(){
+        System.out.println("hejo hej");
+    }
+
 }
