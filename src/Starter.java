@@ -22,4 +22,8 @@ public class Starter {
     public static void continue1(){
         System.out.println("hej");
     }
+
+    public static  void start(){
+        System.out.println("hejo hej");
+    }
 }
