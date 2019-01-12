@@ -6,6 +6,8 @@ public class Starter {
         welcome();
         welcome1();
         continue1();
+        start2();
+
 
     }
 
@@ -30,6 +32,9 @@ public class Starter {
 
     public static  void start1(){
         System.out.println("hejo hej");
+    }
+    public static  void start2(){
+        System.out.println("nowe");
     }
 
 }
